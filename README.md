@@ -1,13 +1,51 @@
-# React + Vite
+# 📌 QRGenie - QR Code Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+QRGenie is a **fast, customizable, and easy-to-use** QR Code Generator built with **React.js**. It allows users to generate QR codes instantly, customize their appearance, and download them as PNG images.
 
-Currently, two official plugins are available:
+## ✨ Features
+- ✅ **Real-time QR Code Generation**
+- 🎨 **Customizable Size & Colors**
+- 📥 **Download QR Code as PNG**
+- ⚡ **Lightweight & Responsive Design**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshot
+![QRGenie Preview](https://via.placeholder.com/800x400?text=QRGenie+Preview)
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
+Check out the live version: **[QRGenie](https://yourusername.github.io/QRGenie/)**
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# QRGenie
+## 🛠️ Installation & Setup
+Follow these steps to run QRGenie locally:
+
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/yourusername/QRGenie.git
+cd QRGenie
+```
+
+### 2️⃣ Install Dependencies
+```sh
+npm install
+```
+
+### 3️⃣ Start the Development Server
+```sh
+npm run dev
+```
+
+The app will be running at `http://localhost:5173/` (if using Vite) or `http://localhost:3000/` (if using Create React App).
+
+## 📤 Deployment
+Deploy to GitHub Pages:
+```sh
+npm run deploy
+```
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to **fork** this repo and submit a **pull request**.
+
+## 📜 License
+This project is licensed under the **MIT License**.
+
+---
+Made with ❤️ by [Your Name](https://github.com/yourusername) 🚀
