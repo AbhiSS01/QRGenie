@@ -12,7 +12,7 @@ QRGenie is a **fast, customizable, and easy-to-use** QR Code Generator built wit
 ![QRGenie Preview](https://via.placeholder.com/800x400?text=QRGenie+Preview)
 
 ## 🚀 Live Demo
-Check out the live version: **[QRGenie](https://yourusername.github.io/QRGenie/)**
+Check out the live version: **[QRGenie](https://AbhiSS01.github.io/QRGenie/)**
 
 ## 🛠️ Installation & Setup
 Follow these steps to run QRGenie locally:
@@ -48,4 +48,4 @@ Contributions are welcome! Feel free to **fork** this repo and submit a **pull r
 This project is licensed under the **MIT License**.
 
 ---
-Made with ❤️ by [Your Name](https://github.com/yourusername) 🚀
+Made with ❤️ by [Abhijit Sahoo](https://github.com/AbhiSS01) 🚀
