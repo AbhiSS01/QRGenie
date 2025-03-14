@@ -12,7 +12,7 @@ QRGenie is a **fast, customizable, and easy-to-use** QR Code Generator built wit
 ![QRGenie Preview](https://via.placeholder.com/800x400?text=QRGenie+Preview)
 
 ## 🚀 Live Demo
-Check out the live version: **[QRGenie]([https://AbhiSS01.github.io/QRGenie/](https://qr-genie-git-main-abhijit-sahoos-projects.vercel.app/))**
+Check out the live version: **[QRGenie](https://qr-genie-git-main-abhijit-sahoos-projects.vercel.app/)**
 
 ## 🛠️ Installation & Setup
 Follow these steps to run QRGenie locally:
